@@ -2,10 +2,11 @@
 
 _(it's like ironmon but less annoying)_
 
-* 1\. Your party can only contain one Pokémon at all times, unless you need a second for forced doubles battles (Tate & Liza, etc). You can catch one additional Pokémon as an HM friend. Whenever you catch a new Pokémon, it is your new main and you must retire your old main unless you declare the new catch as your HM friend before looking at its summary.
-    * 1.1\. HM Friend abilities like Pickup cannot be used.
-    * 1.2\. Only one Pokémon may be caught per route.
-    * 1.3\. You can replace your HM friend if it sucks at being an HM friend.
+* 1\. Your party can only contain one Pokémon at all times, unless you need a second for forced doubles battles (Tate & Liza, etc). Whenever you catch a new Pokémon, it is your new main and you must retire your old main unless you declare the new catch as your HM friend before looking at its summary.
+    * 1.1\. Only one Pokémon may be caught per route.
+    * 1.2\. You can catch one additional Pokémon as an HM friend.
+        * 1.2.1\. HM Friend abilities like Pickup cannot be used.
+        * 1.2.2\. You can replace your HM friend if it sucks at being an HM friend.
 * 2\. Healing moves and moves that cause status conditions with 100% accuracy cannot be used.
 * 3\. No 600+ BST Pokémon unless you evolve into it.
     * 3.1\. This means your starter can be a legendary if its BST is less than 600.
