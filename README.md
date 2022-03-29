@@ -18,7 +18,14 @@ _(it's like ironmon but less annoying)_
 * 7\. No Huge Power/Pure Power unless you evolve into it.
 * 8\. You can only use each field Center-like healing (e.g. S.S. Anne heal) once ever.
 * 9\. Once you enter a dungeon or gym, you cannot leave until you beat it or lose.
-* 10\. No Lucky Egg, Everstone, Leftovers, or Soul Dew.
+* 10\. Held items may be used, with some restrictions.
+   * 10.1\. Held items can only be used if they are picked up. Held items given consistenly from NPCs are not allowed.
+   * 10.2\. Some held items are banned.
+      * 10.2.1\. No Lucky Egg.
+      * 10.2.2\. No Everstone.
+      * 10.2.3\. No Leftovers.
+      * 10.2.4\. No Soul Dew.
+      * 10.2.5\. No Metronome.
 * 11\. Starter must be selected at random. If the game displays all the starters like in Gen 6, you must pick whatever the cursor defaults to.
 * 12\. HM moves cannot be used in battle.
 * 13\. All trainers in a gym must be defeated before fighting the leader.
