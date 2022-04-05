@@ -53,6 +53,7 @@ Evolutions may not be stopped for any reason.
 ## 3. BANNED MECHANICS
 #### 3.01 - Banned Moves 
 Some moves may not be used. If you know a banned move, you may not select it. 
+
 * (a) Moves that heal the user may not be used.
 * (b) Moves that cause status conditions with 100% accuracy may not be used, such as Confuse Ray and Nuzzle.
 * (c) If a banned move is used due to Metronome, that does not violate this rule.
@@ -120,6 +121,11 @@ The Move Relearner may be used to remember each move once.
 
 #### 3.14 - Move Tutors
 You may not learn moves from move tutors.
+
+#### 3.15 - TM Moves
+TM moves may only be learned if they are from a TM received for defeating a gym leader.
+
+* (a) If a Pokémon learns a move naturally that is also taught by a banned TM, they may still use that move.
 
 ## 4. DUNGEONS
 #### 4.01 - Definition
@@ -240,11 +246,9 @@ TM/HM Moves must be set to Random.
 * (a) All other TM/HM Move settings must be disabled.
 
 #### 6.15 - TM/HM Compatibility
-TM/HM Compatibility must be set to Random (completely).
+TM/HM Compatibility must be set to Full Compatibility.
 
-* (a) Full HM Compatibility should be enabled.
-* (b) TM/Levelup Move Sanity must be disabled.
-* (c) Follow Evolutions must be disabled.
+* (a) All other TM/HM Compatibility settings should be disabled.
 
 #### 6.16 - Move Tutor Moves and Compatibility
 Move Tutor Moves are banned, so do what you like.
@@ -271,3 +275,4 @@ Pickup Items must be set to Unchanged.
 **1.1.0 (April 5, 2022)**
 - Reformatted the rules and better clarified HM Friend restrictions.
 - Banned Move Tutor moves.
+- Changed TM compabilitiy to Full Compabitility.
