@@ -118,6 +118,9 @@ The Move Relearner may be used to remember each move once.
 
 * (a) Once a move is relearned using the Move Relearner, you may relearn other moves, but not that move again.
 
+#### 3.14 - Move Tutors
+You may not learn moves from move tutors.
+
 ## 4. DUNGEONS
 #### 4.01 - Definition
 A Dungeon is defined as any area that has encounters or trainer battles that is not one of the following:
@@ -243,37 +246,28 @@ TM/HM Compatibility must be set to Random (completely).
 * (b) TM/Levelup Move Sanity must be disabled.
 * (c) Follow Evolutions must be disabled.
 
-#### 6.16 - Move Tutor Moves
-Move Tutor Moves must be set to Random.
+#### 6.16 - Move Tutor Moves and Compatibility
+Move Tutor Moves are banned, so do what you like.
 
-* (a) All other Move Tutor Move settings must be disabled.
-
-#### 6.17 - Move Tutor Compatibility
-Move Tutor Compatibility must be set to Random (completely).
-
-* (a) TM/Levelup Move Sanity must be disabled.
-* (b) Follow Evolutions must be disabled.
-
-#### 6.18 - Field Items
+#### 6.17 - Field Items
 Field Items must be set to Random.
 
 * (a) Ban Bad Items should be enabled.
 
-#### 6.19 - Special Shops
+#### 6.18 - Special Shops
 Special Shops must be set to Unchanged.
 
-#### 6.20 - Pickup Items
+#### 6.19 - Pickup Items
 Pickup Items must be set to Unchanged.
 
-#### 6.21 - Miscellaneous Tweaks
+#### 6.20 - Miscellaneous Tweaks
 * (a) Ban Lucky Egg must be enabled.
 * (b) Give National Dex at Start should be enabled.
 * (c) Don't Revert Temporary Alt Formes must be disabled.
 * (d) Fastest Text is recommended, but not required.
 
-
-
 ## Changelog
 
 **1.1.0 (April 5, 2022)**
 - Reformatted the rules and better clarified HM Friend restrictions.
+- Banned Move Tutor moves.
