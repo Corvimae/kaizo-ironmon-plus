@@ -45,6 +45,7 @@ _(it's like ironmon but less annoying)_
 * 18\. You can swap out if you get Perish Song'd, but must immediately swap back.
 * 19\. No picking Berry trees.
 * 20\. No Mega Evolutions.
-* 21\. No using Flutes.
+* 21\. Some key items are banned.
+   * 21.1\. No using Flutes.
+   * 21.2\. No using the VS Seeker.
 * 22\. The Move Relearner may only be used to remember each move once ever.
-* 23\. No using the VS Seeker.
