@@ -1,8 +1,8 @@
-# KAIZO BRONZEMON RULESET v1.1.0
+# KAIZO BRONZEMON RULESET v1.1.1
 
 _(it's like ironmon but less annoying)_
 
-**Last update: April 5, 2022**
+**Last update: April 11, 2022**
 
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
@@ -68,6 +68,7 @@ If a Pokémon has a banned ability, it may not be used as your main unless you e
 
 * (a) The ability Pure Power is banned.
 * (b) The ability Huge Power is banned.
+* (c) The ability Parental Bond is banned.
 
 #### 3.04 - Banned Held Items
 Held items are allowed unless otherwise specified.
@@ -271,6 +272,9 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+
+**1.1.1 (April 11, 2022)**
+- Banned Parental Bond.
 
 **1.1.0 (April 5, 2022)**
 - Reformatted the rules and better clarified HM Friend restrictions.
