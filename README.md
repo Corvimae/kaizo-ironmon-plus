@@ -1,4 +1,4 @@
-# KAIZO BRONZEMON RULESET v1.1.2
+# KAIZO BRONZEMON RULESET v1.1.3
 
 _(it's like ironmon but less annoying)_
 
@@ -108,8 +108,11 @@ You may not swap Pokémon to remove non-volatile status conditions.
 
 * (a) You may swap out if you are affected by Perish Song, but you must immediately swap back.
 
-#### 3.10 - Berry Trees
-You may not pick berry trees.
+#### 3.10 - Farmable Items
+You may not use items acquired from infinitly replenishing sources.
+
+* (a) You may not use items acquired from Rock Smash.
+* (b) You may not pick berry trees.
 
 #### 3.11 - Mega Evolutions
 You may not Mega Evolve.
@@ -274,6 +277,9 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+
+**1.1.2 (April 16, 2022)**
+- Banned Rock Smash items.
 
 **1.1.2 (April 16, 2022)**
 - Banned Bright Powder and Lax Incense.
