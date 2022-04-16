@@ -1,8 +1,8 @@
-# KAIZO BRONZEMON RULESET v1.1.1
+# KAIZO BRONZEMON RULESET v1.1.2
 
 _(it's like ironmon but less annoying)_
 
-**Last update: April 11, 2022**
+**Last update: April 16, 2022**
 
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
@@ -74,12 +74,14 @@ If a Pokémon has a banned ability, it may not be used as your main unless you e
 Held items are allowed unless otherwise specified.
 
 * (a) Held items may not be used if they are given consistently by an NPC and thus not randomized, such as the Miracle Seed given by the girl in Petalburg Woods.
-* (b) The held item Lucky Egg is banned.
-* (c) The held item Everstone is banned.
-* (d) The held item Leftovers is banned.
-* (e) The held item Soul Dew is banned.
-* (f) The held item Metronome is banned.
-* (g) All Mega Stones are banned.
+* (b) All Mega Stones are banned.
+* (c) The held item Lucky Egg is banned.
+* (d) The held item Everstone is banned.
+* (e) The held item Leftovers is banned.
+* (f) The held item Soul Dew is banned.
+* (g) The held item Metronome is banned.
+* (h) The held item Bright Powder is banned.
+* (i) The held item Lax Incense is banned.
 
 #### 3.05 - Banned Key Items
 Key items are allowed unless otherwise specified.
@@ -272,6 +274,9 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+
+**1.1.2 (April 16, 2022)**
+- Banned Bright Powder and Lax Incense.
 
 **1.1.1 (April 11, 2022)**
 - Banned Parental Bond.
