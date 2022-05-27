@@ -1,8 +1,8 @@
-# KAIZO BRONZEMON RULESET v1.1.3
+# KAIZO BRONZEMON RULESET v1.1.4
 
 _(it's like ironmon but less annoying)_
 
-**Last update: April 16, 2022**
+**Last update: May 26, 2022**
 
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
@@ -12,10 +12,7 @@ This ruleset is not finalized, and may change as certain mechanics are found to 
 
 ## 2. PARTY COMPOSITION
 #### 2.01 - Starter Selection
-Your starter must be selected at random. 
-
-* (a) If the game displays all the starters like in Gen 6, you must pick whatever the cursor defaults to.
-* (b) If the selected starter is banned due to its BST, the starter to its right must be selected instead.
+You may pick any starter as long as its base stat total is less than 600.
 
 #### 2.02 - Party Limit
 Your party can only contain up to two Pokémon at all times. One Pokémon is your main (see Rule 2.03) and must start in slot 1. The other Pokémon is your HM Friend (see Rule 2.04).
@@ -277,8 +274,10 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+**1.1.4 (May 26, 2022)**
+- Removed the randomized starter requirement.
 
-**1.1.2 (April 16, 2022)**
+**1.1.3 (April 16, 2022)**
 - Banned Rock Smash items.
 
 **1.1.2 (April 16, 2022)**
