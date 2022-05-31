@@ -71,7 +71,7 @@ If a Pokémon has a banned ability, it may not be used as your main unless you e
 #### 3.04 - Banned Held Items
 Held items are allowed unless otherwise specified.
 
-* (a) Held items may not be used if they are given consistently by an NPC and thus not randomized, such as the Miracle Seed given by the girl in Petalburg Woods.
+* (a) Held items may not be used if they are given consistently by an NPC and thus not randomized, such as the Miracle Seed given by the girl in Petalburg Woods. If the consistent held item given by an NPC is a berry, it is allowed.
 * (b) All Mega Stones are banned.
 * (c) The held item Lucky Egg is banned.
 * (d) The held item Everstone is banned.
