@@ -1,8 +1,8 @@
-# KAIZO BRONZEMON RULESET v1.1.4
+# KAIZO IRONMON+ RULESET v1.1.5
 
-_(it's like ironmon but less annoying)_
+This is a modified version of the Kaizo Ironmon designed to increase player enjoyment while still providing a (very) difficult randomized challenge.
 
-**Last update: May 26, 2022**
+**Last update: May 30, 2022**
 
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
@@ -15,13 +15,13 @@ This ruleset is not finalized, and may change as certain mechanics are found to 
 You may pick any starter as long as its base stat total is less than 600.
 
 #### 2.02 - Party Limit
-Your party can only contain up to two Pokémon at all times. One Pokémon is your main (see Rule 2.03) and must start in slot 1. The other Pokémon is your HM Friend (see Rule 2.04).
+Your party can only contain up to three Pokémon at all times. One Pokémon is your main (see Rule 2.03) and must start in slot 1. The other Pokémon are your HM Friends (see Rule 2.04).
 
 #### 2.03 - Main Pokémon
 Whenever you catch a new Pokémon, it is your new main and you must retire your old main.
 
 * (a) Only your main is allowed to use moves in fights on opponents.
-* (b) You may have a second Pokémon as defined under Rule 2.04.
+* (b) You may have a second and third Pokémon as defined under Rule 2.04.
 
 #### 2.04 - HM Friend
 Before catching a Pokémon and viewing its summary, you can declare it as your HM Friend.
@@ -30,7 +30,8 @@ Before catching a Pokémon and viewing its summary, you can declare it as your H
 * (b) Your HM Friend cannot assist in double or triple battles. You can stall turns either by wasting items or by attacking your main.
 * (c) You cannot stall turns on your HM Friend by using AOE moves.
 * (d) The benefits of HM Friend abilities cannot be used. For example, if an HM Friend gets an item from Pickup, you must ignore it.
-* (e) You can replace your HM friend if it sucks at being an HM friend. You should have universal HM learning on so this shouldn't be a problem, but sometimes you're just not vibing, y'know?
+* (e) You can replace your HM friend if it sucks at being an HM friend. You should have universal HM learning on so this shouldn't be a problem, but sometimes you're just not vibing, y'know?'
+* (f) You may have two HM friends for games that require a million HMs, like Gen 4.
 
 #### 2.05 - Route Catch Limit
 Only one Pokémon may be caught per route.
@@ -154,7 +155,7 @@ Battle type must be Set.
 
 ## 6. RANDOMIZATION
 #### 6.01 - Randomizer Config
-The ROM must be randomized using the [config in this repo](https://github.com/Corvimae/bronzemon/blob/main/bronzemon-randomizer-settings.rnqs). This config should match the settings defined in this ruleset.
+The ROM must be randomized using the [config in this repo](https://github.com/Corvimae/kaizo-ironmon-plus/blob/main/randomizer-settings.rnqs). This config should match the settings defined in this ruleset.
 
 #### 6.02 - Base Statistics
 Base Statistics must be set to Shuffle.
@@ -274,6 +275,10 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+**1.1.5 (May 30, 2022)**
+- Rebranded the ruleset.
+- Two HM friends are now allowed.
+- 
 **1.1.4 (May 26, 2022)**
 - Removed the randomized starter requirement.
 
