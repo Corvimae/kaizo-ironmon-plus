@@ -40,4 +40,8 @@ Do whatever you want, I'm not your mom. Play the game in a way that's fun for yo
 
 ## So, what, you think the original ruleset SUCKS? Do we need to take this OUTSIDE???
 
-The original ruleset is cool and unique. It's also something one person made for themselves that kinda just spiraled in popularity, and was never designed for anything other than Gen 3. If I thought the original ruleset sucked I wouldn't be putting time into making changes to it.    
+The original ruleset is cool and unique. It's also something one person made for themselves that kinda just spiraled in popularity, and was never designed for anything other than Gen 3. If I thought the original ruleset sucked I wouldn't be putting time into making changes to it.
+
+## Why is it called Kaizo Ironmon+?
+
+naming is hard okay. blame [this](https://projectplusgame.com/) i guess.
