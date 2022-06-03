@@ -1,7 +1,5 @@
 # KAIZO IRONMON+ RULESET v1.1.5
 
-This is a modified version of the Kaizo Ironmon designed to increase player enjoyment while still providing a (very) difficult randomized challenge.
-
 **Last update: May 30, 2022**
 
 ## 1. RULESET
