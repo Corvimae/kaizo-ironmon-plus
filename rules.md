@@ -131,6 +131,9 @@ TM moves may only be learned if they are from a TM received for defeating a gym 
 
 * (a) If a Pokémon learns a move naturally that is also taught by a banned TM, they may still use that move.
 
+#### 3.16 - Repeatable Battles
+You may not participate in any repeatable battles, such as those from the V.S. Seeker, daily battles from Inver, and so forth.
+
 ## 4. DUNGEONS
 #### 4.01 - Definition
 A Dungeon is defined as any area that has encounters or trainer battles that is not one of the following:
@@ -276,6 +279,7 @@ Pickup Items must be set to Unchanged.
 
 ## Changelog
 **1.1.6 (June 5, 2022)**
+- Clarified repeatable battle rules.
 - Banned Shell Bell.
 - Banned Black Sludge.
 
