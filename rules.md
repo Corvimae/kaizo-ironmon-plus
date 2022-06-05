@@ -1,6 +1,6 @@
-# KAIZO IRONMON+ RULESET v1.1.5
+# KAIZO IRONMON+ RULESET v1.1.6
 
-**Last update: May 30, 2022**
+**Last update: June 5, 2022**
 
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
@@ -78,6 +78,8 @@ Held items are allowed unless otherwise specified.
 * (g) The held item Metronome is banned.
 * (h) The held item Bright Powder is banned.
 * (i) The held item Lax Incense is banned.
+* (j) The held item Shell Bell is banned.
+* (k) The held item Black Sludge is banned.
 
 #### 3.05 - Banned Key Items
 Key items are allowed unless otherwise specified.
@@ -273,6 +275,10 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+**1.1.6 (June 5, 2022)**
+- Banned Shell Bell.
+- Banned Black Sludge.
+
 **1.1.5 (May 30, 2022)**
 - Rebranded the ruleset.
 - Two HM friends are now allowed.
