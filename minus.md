@@ -2,6 +2,9 @@
 
 **Last updated: June 13, 2022**
 
+[Randomizer Settings](/randomizer-settings/kaizo-ironmon-minus-randomizer-settings.rnqs)
+
+
 ## 1. RULESET
 #### 1.01 - Base Ruleset
 All rules from the [Kaizo Ironmon+ ruleset](/rules.md) apply unless otherwise specified in this document.
@@ -37,3 +40,7 @@ Experience curves must be standardized to Medium-Slow.
 
 * (a) This rule overrides Kaizo rule [6.03 (Experience Curve Standardization)](/rules.md#603---experience-curve-standarization).
 
+## Changelog
+
+**1.0.0 (June 13, 2022)**
+- Initial release

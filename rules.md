@@ -2,6 +2,8 @@
 
 **Last update: June 5, 2022**
 
+[Randomizer Settings](/randomizer-settings/kaizo-ironmon-plus-randomizer-settings.rnqs)
+
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
 This ruleset is not finalized, and may change as certain mechanics are found to be unbalanced.

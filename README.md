@@ -1,7 +1,12 @@
 # Kaizo Ironmon+
 <p align="center">
-    <a href="/simplified.md"><b>Simplified Ruleset</b></a> |
-    <a href="/rules.md"><b>Full Ruleset</b></a> |
+    <a href="/getting-started.md"><b>Getting Started</b>
+</p>
+<p align="center">
+    <a href="/simplified.md"><b>Kaizo Ironmon+  Simplified Ruleset</b></a> |
+    <a href="/rules.md"><b>Kaizo Ironmon+ Full Ruleset</b></a>
+</p>
+<p align="center">
     <a href="/touring.md"><b>Ironmon+ Touring Ruleset</b></a> |
     <a href="/minus.md"><b>Kaizo Ironmon- Ruleset</b></a>
 </p>
@@ -14,7 +19,7 @@ Changes have been made to the original ruleset with three main goals in mind:
 1. Minimize unavoidable instant-lose situations that only exist due to quirks of the original ruleset.
 1. Actually be enjoyable for players of Gen 5 and above.
 
-The full ruleset is available [here](/rules.md), and a simplified version is available [here](/simplified.md).
+The full ruleset is available [here](/rules.md), and a simplified version is available [here](/simplified.md). If you don't know how to set up a Pokémon randomizer, check out the [Getting Started guide](/getting-started.md).
 
 Ironmon+ has two variant rulesets:
 
@@ -47,6 +52,10 @@ some underappreciated Pokémon a chance at glory!
     > Perish Song is consistently cited as the most frustrating way to lose a run. Allowing a swap also introduces the risk of getting Roared, Whirlwinded, etc, and thus this introduces another layer of player decision.
 
 There are more differences than just these, and you should check out the [full ruleset](/rules.md) before starting.
+
+## How do I randomize the game so that I can play this?
+
+Most runners use [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases). You can find pre-configured settings files for all the variants on their rule pages
 
 ## Can I modify this ruleset?
 

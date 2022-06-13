@@ -2,6 +2,8 @@
 
 **Last updated: June 12, 2022**
 
+This ruleset uses the same randomizer settings as Kaizo Ironmon+, which you can find [here](/randomizer-settings/kaizo-ironmon-plus-randomizer-settings.rnqs).
+
 ## 1. RULESET
 #### 1.01 - Base Ruleset
 All rules from the [Kaizo Ironmon+ ruleset](/rules.md) apply unless otherwise specified in this document.
@@ -118,3 +120,8 @@ This is the most FRLG-centric rule. Oblivion Wing is the absolute best move in G
 
 #### Elite 4 and Final Gauntlet Specific Rules
 The way this is implemented in the Survival ruleset is clunky. Tail Glow and Swords Dance are extremely strong for sure, and I understand the need to prevent +6 sweeps. However, the Survival implementation is overly complicated while also creating weird false equivelencies; one X Attack is not equivelent to one Swords Dance, nor is one Bulk Up the same as one Tail Glow. By enforcing a limit on the stages themselves rather than the method through which the stages are achieved, worse set-up moves are still viable while placing a check on the power of Swords Dance and Tail Glow.
+
+## Changelog
+
+**1.0.0 (June 12, 2022)**
+- Initial release
