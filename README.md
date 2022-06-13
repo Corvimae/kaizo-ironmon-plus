@@ -2,6 +2,9 @@
 
 **[See the full rules](/rules.md)**
 
+
+**[See the rules for Ironmon+ Touring](/touring.md)**
+
 ## What is Kaizo Ironmon+?
 Kaizo Ironmon+ is a variant of the [Kaizo Ironmon](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) Pokémon randomizer challenge.
 Changes have been made to the original ruleset with three main goals in mind:
