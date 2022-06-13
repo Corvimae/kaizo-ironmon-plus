@@ -27,12 +27,12 @@ You may only throw five balls per trainer battle to stall.
 
 * (a) This restriction does not apply to the secondary Pokémon in a double battle.
 
-#### 3.03 - Combat Stage Setup
+#### 2.04 - Combat Stage Setup
 In the Elite Four, you may not use non-damaging setup moves or battle items to raise any single combat stage above 3.
 
 * (a) Moves such as Charge Beam, which deal damage but also increase a stat, are not restricted.
 * (b) If a combat stage is at or below 3 and a set-up move would increase it above 3, you may not use that move.
-* (c) Rule 3.03(b) only applies when you select a move; if an opponent's move such as Swagger increases your stat before your set-up move goes off, its use does not violate this rule. 
+* (c) Rule 2.04(b) only applies when you select a move; if an opponent's move such as Swagger increases your stat before your set-up move goes off, its use does not violate this rule. 
 
 ## 3. PERMISSIONS
 #### 3.01 - Field Healing
