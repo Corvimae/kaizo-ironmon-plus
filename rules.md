@@ -95,7 +95,7 @@ No experience may be gained by defeating wild Pokémon.
 * (c) You may defeat wild Pokémon if you are trapped in the battle due to Bind, etc, with no other means of escape.
 
 #### 3.07 - Healing Items
-Items that restore health or PP or remove a non-volatile status effect may be used outside of battle.
+Items that restore health or PP or remove a non-volatile status effect may not be used outside of battle.
 * (a) Vitamins like PP Max, etc. are fine.
 
 #### 3.08 - Field Center-like Healing
