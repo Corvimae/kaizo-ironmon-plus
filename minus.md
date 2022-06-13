@@ -28,7 +28,7 @@ You may revive your main Pokémon once.
 #### 2.04 - Evolutions
 Evolutions must always be stopped.
 
-* (a) This rule overrides Kaizo rule [2.07](/rules.md#207---evolutions).
+* (a) This rule overrides Kaizo rule [2.07 (Evolutions)](/rules.md#207---evolutions).
 * (b) Item evolutions are allowed, but if the evolution violates Ironmon- rule [2.01 (Base Stat Total)](#2.01---base-stat-total-limit), you must immediately pivot to a new main.
 
 ## 3. RANDOMIZATION CHANGES
