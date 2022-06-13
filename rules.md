@@ -187,7 +187,7 @@ Pokémon Abilities must be randomized.
 * (c) Duplicate abilities should be combined.
 * (d) Abilities should not follow evolutions or Mega Evolutions.
 * (e) Negative and bad abilities must be enabled.
-* (f) If running Gen 5+, you may remove Imposter from the ability pool. A fork of UPR-VX that accomplishes this is available [here](https://github.com/Corvimae/universal-pokemon-randomizer-zx/releases/tag/v4.5.0-dev).
+* (f) If running Gen 5+, you may remove Imposter from the ability pool. A fork of UPR-VX that accomplishes this is available [here](https://github.com/Corvimae/universal-pokemon-randomizer-zx/releases/tag/v4.4.0).
 
 #### 6.06 - Pokémon Evolutions
 Pokémon Evolutions must be randomized.
