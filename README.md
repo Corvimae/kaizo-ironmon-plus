@@ -55,7 +55,7 @@ There are more differences than just these, and you should check out the [full r
 
 ## How do I randomize the game so that I can play this?
 
-Most runners use [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases). You can find pre-configured settings files for all the variants on their rule pages
+Most runners use [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/releases). You can find pre-configured settings files for all the variants on their rule pages. You can find a full guide on getting started with Ironmon+ [here](/getting-started.md).
 
 ## Can I modify this ruleset?
 
