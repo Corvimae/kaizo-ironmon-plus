@@ -1,9 +1,9 @@
 # Kaizo Ironmon+
-
-**[See the full rules](/rules.md)**
-
-
-**[See the rules for Ironmon+ Touring](/touring.md)**
+<p align="center">
+<a href="/simplified.md"><b>Simplified Ruleset</b></a> |
+<a href="/rules.md"><b>Full Ruleset</b></a> |
+<a href="/touring.md"><b>Ironmon+ Touring Ruleset</b></a> |
+<a href="/minus.md"><b>Kaizo Ironmon- Ruleset</b></a>
 
 ## What is Kaizo Ironmon+?
 Kaizo Ironmon+ is a variant of the [Kaizo Ironmon](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) Pokémon randomizer challenge.
@@ -13,6 +13,16 @@ Changes have been made to the original ruleset with three main goals in mind:
 1. Minimize unavoidable instant-lose situations that only exist due to quirks of the original ruleset.
 1. Actually be enjoyable for players of Gen 5 and above.
 
+The full ruleset is available [here](/rules.md), and a simplified version is available [here](/simplified.md).
+
+Ironmon+ has two variant rulesets:
+
+#### [Ironmon+ Touring](/touring.md)
+Ironmon+ Touring is the Ironmon+ spin on [Ironmon Survival](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1#survival-ironmon-ruleset), designed for play across all generations.
+
+#### [Kaizo Ironmon-](/minus.md)
+Kaizo Ironmon Minus- is a low-BST challenge to give
+some underappreciated Pokémon a chance at glory!
 ## What are the main differences in KI+?
 
 1. Held items are allowed in Gen 5+.

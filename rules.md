@@ -13,13 +13,13 @@ This ruleset is not finalized, and may change as certain mechanics are found to 
 You may pick any starter as long as its base stat total is less than 600.
 
 #### 2.02 - Party Limit
-Your party can only contain up to three Pokémon at all times. One Pokémon is your main (see Rule 2.03) and must start in slot 1. The other Pokémon are your HM Friends (see Rule 2.04).
+Your party can only contain up to three Pokémon at all times. One Pokémon is your main (see Rule 2.03) and must start in slot 1. The other Pokémon are your HM Friends (see [Rule 2.04 (HM Friend)](#204---hm-friend)).
 
 #### 2.03 - Main Pokémon
 Whenever you catch a new Pokémon, it is your new main and you must retire your old main.
 
 * (a) Only your main is allowed to use moves in fights on opponents.
-* (b) You may have a second and third Pokémon as defined under Rule 2.04.
+* (b) You may have a second and third Pokémon as defined under [Rule 2.04 (HM Friend)](#204---hm-friend).
 
 #### 2.04 - HM Friend
 Before catching a Pokémon and viewing its summary, you can declare it as your HM Friend.
@@ -34,8 +34,8 @@ Before catching a Pokémon and viewing its summary, you can declare it as your H
 #### 2.05 - Route Catch Limit
 Only one Pokémon may be caught per route.
 
-* (a) If a wild Pokémon faints on a route due to a self-defeating move like Explosion, it counts as your route encounter and no Pokémon may be caught on this route, but you do not violate Rule 3.06.
-* (b) Catching an HM Friend counts towards the catch limit for the route (see Rule 2.04).
+* (a) If a wild Pokémon faints on a route due to a self-defeating move like Explosion, it counts as your route encounter and no Pokémon may be caught on this route, but you do not violate [Rule 3.06 (Experience Gain)](#306---experience-gain).
+* (b) Catching an HM Friend counts towards the catch limit for the route (see [Rule 2.04 (HM Friend)](#204---hm-friend)).
 
 #### 2.06 - Level Restriction
 You may only catch a Pokémon that is equal to or lower than your current Pokémon's level. 

@@ -38,7 +38,7 @@ In the Elite Four, you may not use non-damaging setup moves or battle items to r
 #### 3.01 - Field Healing
 HP and status conditions can be healed outside of battle unless you are inside a Gym or the Elite Four.
 
-* (a) This rule overrides Kaizo rule 3.07.
+* (a) This rule overrides Kaizo rule [3.07 (Healing Items)](/rules.md#307---healing-items).
 * (b) You still may not heal PP outside of battle.
 
 ---
