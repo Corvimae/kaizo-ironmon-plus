@@ -15,7 +15,7 @@ Changes have been made to the original ruleset with three main goals in mind:
 
 ## What are the main differences in KI+?
 
-1. Held items are allowed.
+1. Held items are allowed in Gen 5+.
 
     > In the original challenge, held items are banned to make the challenge more difficult. However, held items are one of the more interesting and strategically diverse aspects of Pokémon, and ignoring them entirely both reduces the total decision complexity of an Ironmon run while also making most item pickups feel worthless. Additionally, Gen 6 and above have _so much_ variance that allowing held items doesn't trivialize the challenge even a little bit. It is still unbelievably hard.
 
