@@ -1,4 +1,10 @@
-# Kaizo Ironmon+ Simplified Ruleset v1.1.6
+# Kaizo Ironmon+ Simplified Ruleset
+
+<p align="center">
+    <a href="#ironmon-touring-ruleset"><b>Ironmon+ Touring</b></a> |
+    <a href="#kaizo-ironmon--ruleset"><b>Kaizo Ironmon-</b></a>
+</p>
+
 
 This is a simplified version of the Kaizo Ironmon+ ruleset. These rules may not
 be fully up-to-date, and so you should always defer to the [full ruleset](/rules.md)
@@ -33,7 +39,7 @@ Once you enter a dungeon (like team hideouts or the Silph Co.), you cannot leave
 ### Gym Trainer Meet-and-Greet
 You must defeat all gym trainers before fighting the leader.
 
-## Ironmon+ Touring Ruleset v1.0.0
+## Ironmon+ Touring Ruleset
 
 This is an extension of the Kaizo Ironmon+ rules above designed for a different, endurance-style challenge. All the Kaizo Ironmon+ rules apply, plus:
 
@@ -49,7 +55,7 @@ In the Elite Four, you may only increase combat stages to +3 with non-damaging m
 ### Heal Out of the Moment
 You can restore HP and status conditions outside of battle (unlike the base rules).
 
-## Kaizo Ironmon- Ruleset v1.0.0
+## Kaizo Ironmon- Ruleset
 
 This is an extension of the Kaizo Ironmon+ rules above designed to let weaker Pokémon have their chance at glory. All the Kaizo Ironmon+ rules apply, plus:
 

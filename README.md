@@ -1,9 +1,10 @@
 # Kaizo Ironmon+
 <p align="center">
-<a href="/simplified.md"><b>Simplified Ruleset</b></a> |
-<a href="/rules.md"><b>Full Ruleset</b></a> |
-<a href="/touring.md"><b>Ironmon+ Touring Ruleset</b></a> |
-<a href="/minus.md"><b>Kaizo Ironmon- Ruleset</b></a>
+    <a href="/simplified.md"><b>Simplified Ruleset</b></a> |
+    <a href="/rules.md"><b>Full Ruleset</b></a> |
+    <a href="/touring.md"><b>Ironmon+ Touring Ruleset</b></a> |
+    <a href="/minus.md"><b>Kaizo Ironmon- Ruleset</b></a>
+</p>
 
 ## What is Kaizo Ironmon+?
 Kaizo Ironmon+ is a variant of the [Kaizo Ironmon](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) Pokémon randomizer challenge.
