@@ -69,6 +69,8 @@ If a Pokémon has a banned ability, it may not be used as your main unless you e
 #### 3.04 - Banned Held Items
 Held items are allowed unless otherwise specified.
 
+**Itemless Variant**: Runners of Gen 3-4 are recommended to ban held items. Runners of Gen 5+ are allowed to run this variant as well, but it is not recommended.
+
 * (a) Held items may not be used if they are given consistently by an NPC and thus not randomized, such as the Miracle Seed given by the girl in Petalburg Woods. If the consistent held item given by an NPC is a berry, it is allowed.
 * (b) All Mega Stones are banned.
 * (c) The held item Lucky Egg is banned.
@@ -278,6 +280,9 @@ Pickup Items must be set to Unchanged.
 * (d) Fastest Text is recommended, but not required.
 
 ## Changelog
+**1.1.7 (June 13, 2022)**
+- Added the Itemless Variant.
+
 **1.1.6 (June 5, 2022)**
 - Clarified repeatable battle rules.
 - Banned Shell Bell.
