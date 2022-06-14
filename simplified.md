@@ -60,7 +60,7 @@ You can restore HP and status conditions outside of battle (unlike the base rule
 This is an extension of the Kaizo Ironmon+ rules above designed to let weaker Pokémon have their chance at glory. All the Kaizo Ironmon+ rules apply, plus:
 
 ### Keep 'em Smol
-The base stat total maxium is reduced to 450.
+The base stat total maximum is reduced to 450.
 
 ### Buy Yourself Something Nice
 When you arrive at a town with a Pokémart for the first time, you may buy 2 of any available potion.
