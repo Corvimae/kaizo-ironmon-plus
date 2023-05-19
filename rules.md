@@ -106,7 +106,7 @@ Items that restore health or PP or remove a non-volatile status effect may not b
 Field Center-like healing, such as the S.S. Anne heal, is banned if you are in a dungeon.
 
 #### 3.09 - Swapping Pokémon
-You may not swap Pokémon to remove non-volatile status conditions.
+You may not swap Pokémon to remove volatile status conditions.
 
 * (a) You may swap out if you are affected by Perish Song, but you must immediately swap back.
 
