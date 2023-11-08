@@ -4,6 +4,8 @@
 
 [Randomizer Settings](/randomizer-settings/kaizo-ironmon-plus-randomizer-settings.rnqs)
 
+_Learn more about Kaizo Ironmon+ and how it differs from Kaizo IronMON [here](https://github.com/Corvimae/kaizo-ironmon-plus#what-are-the-main-differences-in-ki)._
+
 ## 1. RULESET
 #### 1.01 - Ruleset Updates
 This ruleset is not finalized, and may change as certain mechanics are found to be unbalanced.
