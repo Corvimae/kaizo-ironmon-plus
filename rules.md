@@ -164,7 +164,7 @@ Battle type must be Set.
 
 ## 6. RANDOMIZATION
 #### 6.01 - Randomizer Config
-The ROM must be randomized using the [config in this repo](https://github.com/Corvimae/kaizo-ironmon-plus/blob/main/randomizer-settings.rnqs). This config should match the settings defined in this ruleset.
+The ROM must be randomized using the [config in this repo](https://github.com/Corvimae/kaizo-ironmon-plus/blob/main/randomizer-settings/kaizo-ironmon-plus-randomizer-settings.rnqs). This config should match the settings defined in this ruleset.
 
 #### 6.02 - Base Statistics
 Base Statistics must be set to Shuffle.
@@ -298,7 +298,7 @@ Pickup Items must be set to Unchanged.
 **1.1.5 (May 30, 2022)**
 - Rebranded the ruleset.
 - Two HM friends are now allowed.
-- 
+ 
 **1.1.4 (May 26, 2022)**
 - Removed the randomized starter requirement.
 
